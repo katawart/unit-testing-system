@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="6j6KabP8-2RBhbxieyLQ" name="Page-1">
+        <mxGraphModel dx="799" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Test-Case-Creation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Test-Case-Versioning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Test-Case-Results" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Test-Case-Execution-Reports" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Test-Matrix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Collaboration-Tools" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Unit-Testing-System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
