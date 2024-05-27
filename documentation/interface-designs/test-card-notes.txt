@@ -1,0 +1,6 @@
+For the test card following features need to be planned.
+
+Linked to database so all tests can be read to cards.
+Kaban board view should be simple, display only ID, description, andassigned user.
+Drag-drop for cards updates underlying database.
+Clicking on card opens full card.
