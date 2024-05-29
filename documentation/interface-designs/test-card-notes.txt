@@ -4,3 +4,4 @@ Linked to database so all tests can be read to cards.
 Kaban board view should be simple, display only ID, description, and assigned user.
 Drag-drop for cards updates underlying database.
 Clicking on card opens full card.
+Trello API???
