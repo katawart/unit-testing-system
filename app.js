@@ -7,6 +7,7 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
+
 var app = express();
 
 // view engine setup
@@ -26,6 +27,15 @@ app.use('/users', usersRouter);
 app.use(function(req, res, next) {
   next(createError(404));
 });
+
+//Added for Bootstrap
+app.use('/assets/vendor/bootstrap', express.static(
+  path.join(__dirname, 'node_modules', 'bootstrap', 'dist')));
+app.use('/assets/vendor/jquery', express.static(
+  path.join(__dirname, 'node_modules', 'jquery')));
+app.use('/assets/vendor/popper.js', express.static(
+  path.join(__dirname, 'node_modules', 'popper.js', 'dist')));
+
 
 // error handler
 app.use(function(err, req, res, next) {
